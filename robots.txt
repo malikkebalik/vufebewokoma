@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vufebewokoma.pages.dev/sitemap.xml
